@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "c7a459de7518ae26244f6a031b97b232"
+build_time: [1590304888, 291335000]
+inputs:
+  "/Users/indresh/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+9/macos/Classes/SharedPreferencesPlugin.swift": [1588359806, 0]
