@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "6565d40d1dd55a7627b7f1a38d791e3d"
+build_time: [1590304915, 33599000]
+inputs:
+  "/Users/indresh/Documents/Projects/flutter_redux/reduxExample/macos/Runner/MainFlutterWindow.swift": [1576078437, 0]
+  "/Users/indresh/Documents/Projects/flutter_redux/reduxExample/macos/Runner/AppDelegate.swift": [1576078437, 0]
+  "/Users/indresh/Documents/Projects/flutter_redux/reduxExample/macos/Flutter/GeneratedPluginRegistrant.swift": [1590304876, 989950715]
